@@ -1,0 +1,32 @@
+#row1{
+	background-color: black;
+	height: 60px;
+	color: aquamarine;
+}
+
+#row2 #row2b img{
+	width: 250px;
+	height: 250px;
+	border-radius: 10px;
+}
+
+#row2{
+		background-color: aquamarine;
+		height: 600px;
+}
+
+#row2 #row2a{
+	padding: 20px;
+}
+
+#row1 div{
+	font-size: 42px;
+}
+
+#div2{
+	padding: 30px;
+}
+#div2 p{
+	height: 30px;
+	font-size: 20px;
+}
